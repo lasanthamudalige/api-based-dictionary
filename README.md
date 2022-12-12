@@ -1,4 +1,4 @@
-# Dictionary-website
+# Dictionary website
 <ul>
   <li>Dictionary website using owlbot english dictionary api</li>
 </ul>
