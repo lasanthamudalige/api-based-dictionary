@@ -1,6 +1,6 @@
-# Dictionary website
+# Wordie - online dictionary
 <ul>
-  <li>Dictionary website using owlbot english dictionary api</li>
+  <li>Wordie is an online dictionary powerd by owlbot english dictionary api</li>
 </ul>
 
 <h2>Preview</h2>
