@@ -34,7 +34,11 @@
     <div class="col-lg-3 text-center m-auto bg-light">
         {% if found and data %}
             <h5>{{data.word.title()}}</h5>
-            <img class="m-2" src="{{data.definitions[0].image_url}}" alt="image of the word">
+            {% if data.definitions[0].image_url == None %}
+              <p>Sorry, No images for this word :(</p>
+            {% else %}
+              <img class="m-2" src="{{data.definitions[0].image_url}}" alt="image of the word">
+            {% endif %}
             <p class="m-2">{{data.definitions[0].definition}}</p>
         {% elif data %}
             <p>Sorry, No definitions found  :(</p>
