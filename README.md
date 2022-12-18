@@ -2,7 +2,7 @@
 
 ## Description
 
-Wordie is an online dictionary powerd by owlbot english dictionary api
+Wordie is an online dictionary powerd by owlbot english dictionary api and python flask framework
 
 ### Preview
 
