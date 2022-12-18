@@ -4,7 +4,7 @@ Wordie is an online dictionary powerd by owlbot english dictionary api and pytho
 
 ## Description
 
-The website take the user to a form to get the user input and once the user submite the data it gives out a titie, image and a description about that word. for some words there aren't any images it gives a message. 
+The website take the user to a form to get the user input and once the user submit the data it gives out a title, image and a description about that word. For some words there aren't any images it gives a message. 
 
 ### Preview
 
