@@ -1,6 +1,6 @@
 # Wordie - online dictionary
 
-Wordie is an online dictionary powerd by owlbot english dictionary api and python flask framework
+Wordie is an online dictionary powerd by owlbot english dictionary api and python flask framework.
 
 ## Description
 
