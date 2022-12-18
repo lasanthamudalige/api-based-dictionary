@@ -4,7 +4,8 @@ Wordie is an online dictionary powerd by owlbot english dictionary api and pytho
 
 ## Description
 
-The website take the user to a form to get user to input a word and once the user submit the data it gives out a title, image and a description about that word. For some words there aren't any images it gives a message. 
+The website ask for a word when the user first visit the side. After use submit the word the program look for the word in using the api and return information about it. Then the website reload with the title, image and description about the word user searched.
+If there is no image to the word or the word is not in the dictionary the program shows a message to the user.
 
 ### Preview
 
