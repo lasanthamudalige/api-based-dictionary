@@ -1,5 +1,4 @@
 # Wordie - online dictionary
-
 ## Description
 
 Wordie is an online dictionary powerd by owlbot english dictionary api
