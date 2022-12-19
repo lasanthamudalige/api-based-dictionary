@@ -1,4 +1,4 @@
-# Wordie - online dictionary
+# Wordie
 
 An online dictionary powerd by [Owlbot](https://owlbot.info/) english dictionary api and [Python](https://www.python.org/) and [Flask](https://flask.palletsprojects.com/en/2.2.x/).
 
