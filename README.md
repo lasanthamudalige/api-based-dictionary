@@ -1,12 +1,51 @@
 # Wordie - online dictionary
 
-Wordie is an online dictionary powerd by owlbot english dictionary api and python flask framework.
+Wordie is an online dictionary powerd by [Owlbot](https://owlbot.info/) english dictionary api and [Python](https://www.python.org/) and [Flask](https://flask.palletsprojects.com/en/2.2.x/).
 
-## Description:
+## Table of contents
+* [General info](#general-info)
+* [Technologies](#technologies)
+* [Setup](#setup)
+* [Usage](#usage)
 
-The website ask for a word when the user first visit the site. After user submit the word the program look for the word using the api and return information about it. Then the website reload with the title, image and description about the word user searched.
-If there is no image to the word or the word is not in the dictionary the program shows a message to the user.
+## General info
+Using start button user can start to type top paragraph and after the countdown it will show how many words and characters user typed. 
 
-### Preview:
+## Technologies
+Project is created with:
+* Python version: 3.10.6
+* Flask version: 2.2.2
+	
+## Setup
 
-<img src="https://user-images.githubusercontent.com/91461938/208255125-c838e019-fc6e-4fef-9355-6a5ec5901828.gif">
+To clone and run this application, you'll need [Git](https://git-scm.com) installed on your computer.\
+From your command line run:
+
+```
+# Clone this repository
+$ git clone https://github.com/lasanthamudalige/dictionary-website.git
+
+# Go into the repository
+$ cd dictionary-website/
+
+# To install all dependencies
+$ pip install -r requirements.txt
+```
+
+
+## Usage
+
+To run this project in Linux/Unix:
+
+```
+$ python3 server.py
+```
+
+To run this project in Windows:
+
+```
+$ python server.py
+```
+
+## License 
+This project is open source and available under the [MIT License](https://github.com/lasanthamudalige/dictionary-website/blob/main/LICENSE).
