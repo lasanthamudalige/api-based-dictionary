@@ -9,7 +9,8 @@ An online dictionary powerd by [Owlbot](https://owlbot.info/) english dictionary
 * [Usage](#usage)
 
 ## General info
-Using start button user can start to type top paragraph and after the countdown it will show how many words and characters user typed. 
+
+Once user enter a word the program will a description about that word and if there are any images it will show that too.
 
 ## Technologies
 Project is created with:
@@ -23,10 +24,10 @@ From your command line run:
 
 ```
 # Clone this repository
-$ git clone https://github.com/lasanthamudalige/dictionary-website.git
+$ git clone https://github.com/lasanthamudalige/api-based-dictionary.git
 
 # Go into the repository
-$ cd dictionary-website/
+$ cd api-based-dictionary/
 
 # To install all dependencies
 $ pip install -r requirements.txt
@@ -48,4 +49,4 @@ $ python server.py
 ```
 
 ## License 
-This project is open source and available under the [MIT License](https://github.com/lasanthamudalige/dictionary-website/blob/main/LICENSE).
+This project is open source and available under the [MIT License](https://github.com/lasanthamudalige/api-based-dictionary/blob/main/LICENSE).
