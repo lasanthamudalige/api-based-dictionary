@@ -1,6 +1,6 @@
 # Wordie - online dictionary
 
-Wordie is an online dictionary powerd by [Owlbot](https://owlbot.info/) english dictionary api and [Python](https://www.python.org/) and [Flask](https://flask.palletsprojects.com/en/2.2.x/).
+An online dictionary powerd by [Owlbot](https://owlbot.info/) english dictionary api and [Python](https://www.python.org/) and [Flask](https://flask.palletsprojects.com/en/2.2.x/).
 
 ## Table of contents
 * [General info](#general-info)
