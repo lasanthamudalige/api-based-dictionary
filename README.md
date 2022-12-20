@@ -10,7 +10,7 @@ An online dictionary powerd by [Owlbot](https://owlbot.info/) english dictionary
 
 ## General info
 
-Once user enter a word to the program it will show a title, image and a description about that word in the dictionary.
+Once the user enter a word to the program it will show a title, image and a description about that word in the dictionary.
 
 ## Technologies
 Project is created with:
