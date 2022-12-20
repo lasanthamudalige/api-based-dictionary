@@ -36,7 +36,7 @@
         {% if found and data %}
             <h5>{{data.word.title()}}</h5>
             {% if data.definitions[0].image_url == None %}
-              <p>Sorry, No images for this word :(</p>
+              <p>Sorry, There is no image for this word :(</p>
             {% else %}
               <img class="m-2" src="{{data.definitions[0].image_url}}" alt="image of the word">
             {% endif %}
