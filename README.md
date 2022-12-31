@@ -5,6 +5,7 @@ An online dictionary powerd by [Owlbot](https://owlbot.info/) english dictionary
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
+* [Screenshots](#screenshots)
 * [Setup](#setup)
 * [Usage](#usage)
 
@@ -16,6 +17,9 @@ Once the user enter a word to the program it will show a title, image and a desc
 Project is created with:
 * Python version: 3.10.6
 * Flask version: 2.2.2
+
+## Screenshots
+![screenshot1](https://user-images.githubusercontent.com/91461938/210150130-77988877-a5ac-4237-8d1b-3a9a6e68fe16.png)
 	
 ## Setup
 
